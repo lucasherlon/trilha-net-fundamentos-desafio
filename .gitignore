@@ -382,7 +382,6 @@ FodyWeavers.xsd
 !.vscode/tasks.json
 !.vscode/launch.json
 !.vscode/extensions.json
-DesafioFundamentos/.vscode/
 *.code-workspace
 
 # Local History for Visual Studio Code
